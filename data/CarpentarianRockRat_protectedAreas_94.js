@@ -1,0 +1,1 @@
+var json_CarpentarianRockRat_protectedAreas_94 = {"type":"FeatureCollection","name":"CarpentarianRockRat_protectedAreas_94","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
